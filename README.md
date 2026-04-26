@@ -66,5 +66,5 @@ shap: 0.50.0
 
 
 ## Overview
-Overall, the project consists of code (found in the Data analysis folder) and data (found in the Participant Real Data folder). The code is split into two python notebooks; "Real_Data_Analysier.ipynb" which contains the data cleaning + feature extraction pipelines AND "ML_nalysier.ipynb" which contains the machine learning pipeline. The notebooks contain documentation guiding step by step through the code. Other files present in the Data analysis folder are used for saved results and digrams. The notebook explains those files respectively. Please start at "Real_Data_Analysier.ipynb". 
+Overall, the project consists of code (found in the Data analysis folder) and data (found in the Participant Real Data folder). The code is split into two python notebooks; "Real_Data_Analysier.ipynb" which contains the data cleaning + feature extraction pipelines AND "ML_nalysier.ipynb" which contains the machine learning pipeline. The notebooks contain documentation guiding step by step through the code. Other files present in the Data analysis folder are used for saved results and digrams. The notebook explains those files respectively. Please start at "Real_Data_Analysier.ipynb". Side note; "Plot.ipynb" is a small file used for participant statisic plotting. 
 
