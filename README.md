@@ -1,4 +1,4 @@
-# Predicting Chess Move Accuracy from EEG Brain Activity Across Varying Skill Levels
+# Predicting Chess Puzzle Outcomes from Pre-Move EEG: Towards a Human Model of Multi-Step Problem Solving
 
 
 ## Intial data set up
